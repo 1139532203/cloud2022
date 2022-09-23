@@ -11,6 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EurekaServerApplication7001 {
     public static void main(String[] args) {
         System.out.println("begin"+System.currentTimeMillis());
+        System.out.println("hot fix fist commit");
         SpringApplication.run(EurekaServerApplication7001.class,args);
     }
 }
