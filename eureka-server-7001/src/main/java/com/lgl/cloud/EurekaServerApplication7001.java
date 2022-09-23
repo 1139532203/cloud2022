@@ -13,6 +13,7 @@ public class EurekaServerApplication7001 {
         System.out.println("begin"+System.currentTimeMillis());
         System.out.println("hot fix fist commit");
         System.out.println("master commit");
+        System.out.println("hot fix commit");
         SpringApplication.run(EurekaServerApplication7001.class,args);
     }
 }
