@@ -14,7 +14,7 @@ public class EurekaServerApplication7001 {
         System.out.println("hot fix fist commit");
         System.out.println("master commit");
         System.out.println("hot fix commit");
-        System.out.println("master push to github");
+        System.out.println("master push to githu8888888888888888b");
         SpringApplication.run(EurekaServerApplication7001.class,args);
     }
 }
